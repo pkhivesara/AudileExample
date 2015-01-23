@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Audible Example App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="client_id">5f9365e9f1054aa991726d731c65aa02</string>
+	
+    <string name="imagedesc">Image View</string>
+    <string name="user_name">User Name : </string>
+    <string name="full_name">Full Name : </string>
+    <string name="created_on">Created on : </string>
+    
+    <string name="hash_tag_header">Hash Tags</string>
+    
+    <string name="hash_tag_content">Hash Tag Content</string>
+    
+    <string name="swipe">Swipe left</string>
+
+</resources>
